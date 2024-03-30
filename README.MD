@@ -12,9 +12,7 @@ Any use of the Licensed Application in violation of the foregoing violates this 
 
 WHEREAS, Licensor owns certain software that it desires to license to the End-User;
 
-WHEREAS, End-User desires to use such software under the terms and conditions set forth herein, where applicable.
-
-WHEREAS, Contributor desires to contribute to further development of the software under the terms and conditions set forth herein, where applicable.
+WHEREAS, End-User desires to use such software under the terms and conditions set forth herein.
 
 NOW, THEREFORE, in consideration of the mutual promises contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
 
