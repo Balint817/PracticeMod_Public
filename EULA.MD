@@ -27,7 +27,7 @@ NOW, THEREFORE, in consideration of the mutual promises contained herein and for
    1. The Licensed Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Licensed Application. You may not use the Licensed Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
 
-### 1. **Scope of License**
+### 2. **Scope of License**
 
    1. You may not reverse engineer, translate, disassemble, integrate, decompile, remove, modify, combine, create derivative works or updates of, adapt, or attempt to derive the source code of the Licensed Application, or any part thereof (except with the Licensor's prior written consent).
 
@@ -38,12 +38,12 @@ NOW, THEREFORE, in consideration of the mutual promises contained herein and for
    1. Nothing in this license should be interpreted to restrict third-party terms. When using the Licensed Application, You must ensure that You comply with applicable third-party terms and conditions.
 
 
-### 1. **Intellectual Property Rights**
+### 3. **Intellectual Property Rights**
 
    1. All intellectual property rights in the Software shall remain the property of Licensor. The Licensee does not acquire any rights to the Software except for the limited use rights specified in this Agreement.
 
 
-### 1. **Warranty and Liability**
+### 4. **Warranty and Liability**
 
    1. The Software is provided "as is" without warranty of any kind. Licensor shall not be liable for any damages arising out of or related to the use or inability to use the Software.
 
@@ -56,12 +56,12 @@ NOW, THEREFORE, in consideration of the mutual promises contained herein and for
    1. No warranty is provided for the Licensed Application that is not executable on the device, that has been unauthorizedly modified, handled inappropriately or culpably, combined or installed with inappropriate hardware or software, used with inappropriate accessories, regardless if by Yourself or by third parties, or if there are any other reasons outside of the Licensor's sphere of influence that affect the executability of the Licensed Application.
 
 
-### 1. **Termination**
+### 5. **Termination**
 
    1. The license is valid until terminated by the Licensor or by You. Your rights under this license will terminate automatically and without notice from the Licensor if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.
 
 
-### 1. **Governing Law**
+### 6. **Governing Law**
 
    1. This Agreement shall be governed by and construed in accordance with the laws of Hungary.
 
